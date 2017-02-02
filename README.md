@@ -1,2 +1,2 @@
-# LagoonsCafe
-Lagoons Cafe &amp; Gallery - Mackay
+# BotanicalGardensCafe
+Botanical Gardens Cafe &amp; Gallery - Mackay
