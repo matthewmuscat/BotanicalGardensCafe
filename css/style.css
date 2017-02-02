@@ -1,10 +1,3 @@
-/*
-
-Template 2083 Steak House
-
-http://www.tooplate.com/view/2083-steak-house
-
-*/
 
 body {
 		background: #ffffff;
@@ -218,6 +211,11 @@ a:focus {
   color: #c21500;
 }
 
+.navbar-header img{
+float: left;
+padding-right: 15px;
+padding-top: 5px;
+}
 
 /* Navigation section */
 .navbar-default {
