@@ -196,6 +196,12 @@ a:focus {
   height: 100vh;
 }
 
+.btn-default2 {
+    color: #c21500;
+    background-color: #fff;
+    border-color: #ccc;
+}
+
 #home .btn {
   background: transparent;
   border: 3px solid #ffffff;
@@ -233,6 +239,10 @@ padding-top: 5px;
   line-height: 40px;
   margin: 0;
   margin-top: 5px;
+}
+
+.redhover h3:hover{
+color: #c21500 !important;
 }
 
 .navbar-default .navbar-nav li a {
@@ -730,6 +740,23 @@ padding-top: 5px;
   color: #ffffff;
 }
 
+.submit {
+   background: #ffffff;
+  border-radius: 4px;
+  color: #c21500;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 2px;
+  height: 45px;
+  margin-top: 20px;
+  transition: all 0.4s ease-in-out;
+}
+
+.submit:hover {
+    background-color: #c21500;
+  border-color: transparent;
+  color: #ffffff;
+}
 
 /* Footer section  */
 footer {
